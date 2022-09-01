@@ -1,0 +1,513 @@
+@media screen and (max-width:400px) {
+    body{
+        margin:0px;
+        padding:0px;
+    }
+}
+@media screen and(max-width:400px) {
+    #homepage{
+            background-image: url(https://nuuk-e3eaa.firebaseapp.com/assets/img/slide-2.jpg);
+            background-size: cover;
+            background-repeat: no-repeat;
+            background-attachment: fixed;
+    }
+    #homepage div{
+        padding-left: 0px;
+        padding-top: 0px;
+        padding-right: 0px;
+        padding-bottom: 0px;
+        margin-left: 0px;
+        margin-top: 0px;
+        margin-right: 0px;
+        margin-bottom: 0px;
+    }
+    #topmenu{
+        height:50px;
+        width:300px;
+   }
+}
+@media screen and(max-width:400px){
+    .dropdown{
+        display: none;
+    }
+    #menu-2{
+        height:100px;
+        display: none;
+    }
+   #menu-3{
+    height:100px;
+    display: none;
+    
+   }
+   #heading{
+    font-size: 32px;
+    padding: 0px;
+    margin: 0px;
+   }
+   #div1{
+    padding: 0px;
+    margin:0px;
+    position: relative;
+   }
+   #social-icons{
+    position: absolute;
+    top:300px;
+    left:300px;
+   }
+   #contact-info{
+    display: none;
+   }
+   #first-para{
+    padding: 0px;
+    margin:0px;
+   }
+   #btn1{
+    padding-left: 10px;
+    margin-left:10px ;
+   }
+}
+  @media screen and (max-width:400px){
+    .title{
+        flex-direction: column;
+        align-items: flex-start;
+        padding: 0px;
+        margin: 10px 0px 0px 0px;
+    }
+    .title-head{
+        font-size: 28px;
+        padding: 10px 0px 10px 10px;
+        margin: 10px 0px 0px 10px;
+    }
+    .title p a{
+        font-size: 16px;
+        padding: 0px 0px 10px 10px;
+        margin: 0px 0px 10px 10px;
+    }
+  }
+@media screen and (max-width:400px) {
+    .service-info{
+            flex-direction: column;
+            padding: 0px;
+            margin: 0px;
+        }
+        .service-info div{
+            padding-right:10px;
+            margin-left: 0px;
+            margin-left: 0px;
+            margin-bottom: 10px;
+            width:300px;
+        }
+        .service-info p{
+            font-size: 18px;
+            flex-wrap: wrap;
+        }
+    }
+    @media screen and (max-width:400px){
+        .service-info a{
+            margin: 0;
+            padding: 0;
+        }
+    }
+    @media screen and (max-width:400px){
+        .overlay{
+            display: none;
+        }
+        .overlay2{
+            display: none;
+        }
+        .overlay3{
+            display: none;
+        }
+        .overlay4{
+            display: none;
+        }
+        .overlay5{
+            display: none;
+        }
+        .overlay6{
+            display: none;
+        }
+    }
+    @media screen and (max-width:400px) {
+        #contact-info{
+            display: none;
+        }
+    }
+    @media screen and (max-width:400px){
+        .page-info{
+            flex-direction: column;
+            margin-top: 20px;
+            margin-left: 0px;
+        }
+        .page-info img{
+            padding: 0px;
+            margin-top: 15px;
+            margin-left: 0px;
+            margin-right: 0px;
+            width: 300px;
+            height: 300px;
+        }
+     }
+     @media screen and (max-width:400px) {
+        .page-desc{
+            flex-direction: column;
+            padding: 0px;
+            margin-left: 0px;
+            margin-right: 0px;
+            width:300px;
+            height: 400px;
+        }
+        .page-desc p{
+            font-size: 16px;
+        }
+        .page-desc h1{
+            font-size: 28px;
+        }
+        .page-desc a{
+            padding: 0;
+            margin: 0;
+        }
+    }
+    @media screen and (max-width:400px){
+        .team-num{
+            flex-direction: column;
+            padding: 0;
+            margin-left: 0px;
+            margin-top: 20px;
+            align-items: flex-start;
+        }
+        .team-num div{
+            padding:0px 0px 15px 30px; 
+            margin-bottom: 20px;
+            margin-left: 30px;
+            margin-right: 0px;
+            margin-top: 0px;
+            text-align: left;
+        }
+        .team-num div:first-of-type{
+             margin-top: 45px;
+        }
+        .team-num div h1{
+            padding: 0px;
+            margin: 0px;
+        }
+        .team-num div p{
+            padding: 0px;
+            margin: 0px;
+        }
+    }
+    @media screen and (max-width:400px) {
+        .title-1{
+            flex-direction: column;
+            flex-wrap: wrap;
+            padding: 0px;
+            margin: 0px;
+            align-items: flex-start;
+        }  
+        /* .title-1 div{
+             padding-left: 10px;
+             margin-left: 15px;
+        } */
+        .title-1 h1{
+            font-size: 28px;
+            padding-left: 10px;
+            margin-left: 15px;
+        }
+        .title-1 p{
+            font-size: 16px;
+            padding-left: 10px;
+            margin-left: 15px;
+        }
+        .projects-img img{
+            width:300px;
+            height: 300px;
+            padding: 0;
+            margin:10px 0px;
+            flex-direction: column;
+            flex-wrap: wrap;
+        }
+    }
+        @media screen and (max-width:400px){
+            #great-div{
+                
+                 text-align: center;
+                 margin-left: 0px;
+                 padding-left: 0px;
+                 width:480px;
+                 height: 150px;
+                 padding-top:30px
+                 
+                }
+                #great-div h1{
+                    font-size:24px;
+                    padding-right: 70px;
+                }
+                #great-div p{
+                    padding-right: 70px;
+                    font-size: 16px;
+                }
+                #great-div a{
+                    padding-right: 70px;
+                }
+        }
+        @media screen and (max-width:400px){
+            .team-div{
+                flex-direction: column;
+                align-items: flex-start;
+                padding-left: 0px;
+                margin-left: 0px;
+            }
+            .team-div p{
+                padding-left: 30px;
+            }
+            .team-div div{
+                padding-left: 10px;
+            }
+            .team-title-head{
+                padding-left:20px;
+                margin-left: 0px;
+            }
+        }
+        @media screen and (max-width:400px){
+            .teams{
+                flex-direction: column;
+                position: relative;
+                padding-left: 0px;
+                margin-left: 5px;
+                align-items: center;
+            }
+            .team-social-icons{
+                position: absolute;
+                top:270px;
+                left:269px;
+               
+            }
+            .team-social-icons1{
+                position: absolute;
+                top:760px;
+                left:267px;
+                
+            }
+            .team-social-icons2{
+                position: absolute;
+                top:1250px;
+                left:267px;
+            }
+            .team-social-icons3{
+                position: absolute;
+                top:1738px;
+                left:267px;
+            }
+        }
+    
+            @media screen and (max-width:400px){
+                .testimonial-div{
+                    flex-direction: column;
+                    padding-left: 0px;
+                    margin-left: 0px;
+                    padding-top: 0px;
+                    margin-top: 0px;
+                    position: relative;
+                    padding-bottom: 0px;
+                    margin-bottom: 10px;
+                    height: 1820px;
+                 }
+                 .testi-aside{
+                    padding-left: 0px;
+                    margin-left: 10px;
+                    padding-top: 0px;
+                    margin-top: 10px;
+                    padding-bottom: 0px;
+                    margin-bottom: 10px;
+                 }
+                 .testi-aside p{
+                    padding-left: 0px;
+                    margin-left: 10px;
+                    font-size: 22px;
+                }
+                .testi-aside p a{
+                    padding-bottom: 0px;
+                    margin-bottom: 0px;
+                }
+                 .testi-title-head{
+                    font-size: 32px;
+                    margin-left: 10px;
+                    padding-left: 0px;
+                 }
+                .testi-card1{
+                    position: absolute;   
+                    top:350px;
+                    left:50px;
+                    padding-right: 10px;
+                    margin-right: 10px;
+                }
+                .testi-card2{
+                     position:absolute;
+                     top: 700px;
+                     left:50px;
+                     height:300px;
+                     
+                }
+                .testi-card3{
+                    position: absolute;
+                    top: 1050px;
+                    left:50px;
+                    height:300px;
+                }
+                .testi-card4{
+                    height: 300px;
+                    position: absolute;
+                    top: 1450px;
+                    left:50px
+                }
+            }  
+            @media screen and (max-width:400px){
+                .latest-news-div{
+                 padding: 0px;
+                 margin: 0px;
+                 position: relative;
+                }
+                .latest-title-head{
+                    padding: 0px;
+                    margin: 0px;
+                }
+                .latest-news-div .latest-title{
+                    flex-direction: column;
+                    align-items: flex-start;
+                    padding: 0px 0px 0px 10px;
+                    margin: 0px 0px 0px 10px;
+                }
+                .latest-news-div .latest-title p a{
+                    padding: 0px;
+                    margin: 0px;
+                    font-size: 20px;
+                }
+                .blog-div{
+                    flex-direction: column;
+                    margin:0px;
+                    padding: 0px;
+                }
+                .blog-img{
+                    width:300px;
+                }
+                .blog1{
+                    width:300px;
+                    margin-left:0px;
+                    margin-bottom: 10px;
+                    height: 550px;
+                    padding:0px;
+                    margin-right: 0px;
+                }
+                .blog2{
+                    width:300px;
+                    margin-left:0px;
+                    margin-top: 10px;
+                    margin-bottom: 10px;
+                    margin-right: 0px;
+                    height: 550px;
+                    padding:0px;
+                }
+                .blog3{
+                    height: 550px;
+                    width:300px;
+                    margin-left:0px;
+                    margin-top: 10px;
+                    margin-right: 0px;
+                    margin-bottom: 10px;
+                    padding:0px;
+                }
+                .blog-date{
+                    position:absolute;
+                    top:115px;
+                    left:290px;
+                }
+                .blog-date2{
+                    position:absolute;
+                    top:685px;
+                    left:290px;
+                }
+                .blog-date3{
+                    position:absolute;
+                    top:1255px;
+                    left:290px;
+                }
+            }
+            @media screen and (max-width:400px){
+                .logo-div{
+                    flex-direction: column;
+                }
+                .logo-div p{
+                    padding-right: 20px;
+                }
+                .logo-div .logo-img{
+                    padding-right: 20px;
+                }
+            }
+            @media screen and (max-width:400px){
+                .footer-div{
+                    flex-direction: column;
+                    justify-content: space-between;
+                    width: 480px;
+                    margin:0px;
+                    padding: 0px;
+                    position: relative;
+                }
+                .service-div{
+                    margin-top: 10px;
+                    padding-left: 0px;
+                    margin-left: 0px;
+                    padding-bottom: 0px;
+                    margin-bottom: 0px;
+                    height:255px;
+                }
+                .contact-div{
+                    margin:0px;
+                    padding: 0px;
+                    height: 500px;
+                }
+                .contact-div h2{
+                    margin:0px;
+                    padding-bottom: 20px;
+                    
+                }
+                .line1{
+                    position: absolute;
+                    top: 35px;
+                    left: 90px;
+                }
+                .line2{
+                    position: absolute;
+                    top: 325px;
+                    left: 70px;
+                }
+                .line3{
+                    position: absolute;
+                    top: 560px;
+                    left: 90px;
+                }
+                .contact-div1{
+                    position: absolute;
+                    top:579px;
+                    left:30px;
+                }
+                .contact.img img:first-of-type{
+                    position: absolute;
+                    padding-top: 10px;
+                   padding-bottom: 10px;
+                   
+                }
+                .contact-img img:nth-of-type(2){
+                   padding-top: 30px;
+                   padding-bottom: 30px;
+                }
+                .contact-img img:last-of-type{
+                    padding-top:52px;
+                    
+                }
+                .last-footer-img{
+                    position: absolute;
+                    top:936px;
+                    left:30px;
+                    padding-top:40px;
+                }
+            }
